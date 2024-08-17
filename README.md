@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sowmiya Muthukumar
-- 👀 I’m interested in Software Field
-- 🌱 I’m currently studing 3rd yr CSE
+- 👀 I’m interested in Software Field.
+- 🌱 I’m currently studing Final yr CSE
 - 📫 How to reach me msowmiya033@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
